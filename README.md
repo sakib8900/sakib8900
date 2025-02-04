@@ -1,5 +1,5 @@
 <div align="center">
-  <!-- Background Image -->
+  <!-- Custom Banner Image with Name -->
   <img src="https://i.pinimg.com/736x/7a/2e/bf/7a2ebf2c71708dc7674191e7f496a1e5.jpg" width="100%" />
 
   <!-- Profile Image (Rounded) -->
@@ -7,5 +7,4 @@
        width="150" height="150" style="border-radius: 50%;" />
 
   <h1>Hey there 👋</h1>
-  <h2>I'm [Your Name]!</h2>
 </div>
