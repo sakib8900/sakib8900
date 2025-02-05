@@ -23,9 +23,9 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      # Step 3: Upload the generated Snake animation as an artifact (using v2)
+      # Step 3: Upload the generated Snake animation as an artifact (using the latest release)
       - name: Push Snake Animation
-        uses: actions/upload-artifact@v2  # Updated to v2 to avoid deprecated version error
+        uses: actions/upload-artifact@v2  # Ensure you are using v2 for artifact uploads
         with:
           name: snake-animation
-          path: dist
+          path: dist/
