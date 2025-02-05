@@ -12,7 +12,9 @@
 Hi! I'm Nazmul Islam, a passionate developer from Bangladesh. I love exploring new technologies and continuously improving my skills. Currently, I'm focused on learning modern web development frameworks and building exciting projects.
 
 - 🌍 I'm based in Bangladesh  
-- ✉️ You can contact me at [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com)  
+- ✉️ You can contact me at [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com)
+- ## 🌐 Contact Me:
+- 📞 Phone: [+8801858388900](tel:+8801858388900)  
 - 📚 I'm currently learning new technologies  
 - 🎯 My hobbies are coding, cycling, and exploring new tech trends  
 
