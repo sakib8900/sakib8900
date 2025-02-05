@@ -11,13 +11,12 @@
 
 Hi! I'm Nazmul Islam, a passionate developer from Bangladesh. I love exploring new technologies and continuously improving my skills. Currently, I'm focused on learning modern web development frameworks and building exciting projects.
 
-- 🌍 I'm based in Bangladesh  
-- ✉️ You can contact me at [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com)
-- ## 🌐 Contact Me:
-- 📞 Phone: [+8801858388900](tel:+8801858388900)  
+- 🌍 I'm based in Bangladesh,feni  
 - 📚 I'm currently learning new technologies  
-- 🎯 My hobbies are coding, cycling, and exploring new tech trends  
-
+- 🎯 My hobbies are coding, cycling, and exploring new tech trends
+-  ## 🌐 Contact Me:
+- 📞 WhatsApp: [Chat on WhatsApp](https://wa.me/8801858388900)
+- ✉️ You can contact me at [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com) 
 <a href="https://www.github.com/sakib8900" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/sakib8900?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
