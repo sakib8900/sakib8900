@@ -21,7 +21,7 @@ jobs:
             dist/snake-dark.svg?palette=github-dark
 
       - name: Push Snake Animation
-        uses: actions/upload-artifact@v3
+        uses: actions/upload-artifact@v2   # Change to v2 here
         with:
           name: snake-animation
           path: dist
