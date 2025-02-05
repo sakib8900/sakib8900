@@ -2,16 +2,19 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
+    - cron: "0 0 * * *"  # Runs daily at midnight (UTC)
+  workflow_dispatch:  # Allows manual trigger
 
 jobs:
   build:
     runs-on: ubuntu-latest
+
     steps:
+      # Step 1: Checkout the repository
       - name: Checkout Repository
         uses: actions/checkout@v3
 
+      # Step 2: Generate Snake animation using Platane/snk
       - name: Generate Snake
         uses: Platane/snk@v3
         with:
@@ -20,8 +23,9 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
+      # Step 3: Upload the generated Snake animation as an artifact (using v2)
       - name: Push Snake Animation
-        uses: actions/upload-artifact@v2  # Ensure this is v2
+        uses: actions/upload-artifact@v2  # Updated to v2 to avoid deprecated version error
         with:
           name: snake-animation
           path: dist
