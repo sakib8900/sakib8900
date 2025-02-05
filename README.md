@@ -7,15 +7,15 @@
 <h1 align="center">Hi! <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="30px" /> My name is Nazmul Islam</h1>
 
 ###
-
 ## 🌐 About Me:
 
-- 🌍 I'm based in Bangladesh
-- ✉️ You can contact me at [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com)
-- 📚 I'm currently learning new technologies
-- 🎯 My hobbies are coding, cycling, and exploring new tech trends
+Hi! I'm Nazmul Islam, a passionate developer from Bangladesh. I love exploring new technologies and continuously improving my skills. Currently, I'm focused on learning modern web development frameworks and building exciting projects.
 
-###
+- 🌍 I'm based in Bangladesh  
+- ✉️ You can contact me at [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com)  
+- 📚 I'm currently learning new technologies  
+- 🎯 My hobbies are coding, cycling, and exploring new tech trends  
+
 <a href="https://www.github.com/sakib8900" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/sakib8900?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
@@ -68,14 +68,3 @@
 <a href="https://github.com/sakib8900">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sakib8900&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Top Languages" />
 </a>
-
-### 🚀 Top Repositories:
-
-<div width="100%" align="center">
-  <a href="https://github.com/sakib8900/assets-management-client">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sakib8900&repo=assets-management-client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-  <a href="https://github.com/sakib8900/assignment-client">
-    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=sakib8900&repo=assignment-client&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" />
-  </a>
-</div>
