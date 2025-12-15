@@ -15,7 +15,7 @@
 👋 Hi there! I'm **Nazmul Islam Patowary**, a creative and enthusiastic **MERN Stack Developer** from **Feni, Bangladesh** 🇧🇩.
 
 💻 Check out my work here:  
-👉 [**My Portfolio**](https://my-personal-portfolio-53963.web.app/)
+👉 [**My Portfolio**](https://nazmulislam-me.vercel.app/)
 
 - 📍 **Location:** Bangladesh, Feni  
 - 📚 **Currently Learning:** Advanced MERN Stack, Next.js  
@@ -30,7 +30,7 @@
 |---|---|
 | 📧 Email | [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com) |
 | 📞 WhatsApp | [Chat on WhatsApp](https://wa.me/8801858388900) |
-| 🌐 Portfolio | [Visit My Portfolio](https://my-personal-portfolio-53963.web.app/) |
+| 🌐 Portfolio | [Visit My Portfolio](https://nazmulislam-me.vercel.app/) |
 
 <a href="https://www.github.com/sakib8900" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/sakib8900?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
@@ -64,6 +64,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
@@ -89,7 +90,7 @@
 
 ## 📄 My Resume
 
-<a href="https://drive.google.com/file/d/1NFTVKNhT3AiSDQeEgZFOtnF-_34matQZ/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1tjf2rdWb5ymIhi3UONiWGJv2SI0MeaRa/view?usp=drive_link" target="_blank">
   <img src="https://img.shields.io/badge/-Download%20CV-00bfbf?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
