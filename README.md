@@ -84,7 +84,7 @@
 
 ## 📄 My Resume
 
-<a href="https://drive.google.com/file/d/1tjf2rdWb5ymIhi3UONiWGJv2SI0MeaRa/view?usp=drive_link" target="_blank">
+<a href="https://drive.google.com/file/d/1ZFzDUQOfnJt_U8yfXxSkg0jxZ7GLlcwB/view" target="_blank">
   <img src="https://img.shields.io/badge/-Download%20CV-00bfbf?style=for-the-badge&logo=googledrive&logoColor=white" />
 </a>
 
