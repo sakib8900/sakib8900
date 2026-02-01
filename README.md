@@ -76,9 +76,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sakib8900&show_icons=true&count_private=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sakib8900.vercel.app/api?username=sakib8900&show_icons=true&theme=tokyonight)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sakib8900&layout=compact&theme=tokyonight)
+![Top Languages](https://github-readme-stats-sakib8900.vercel.app/api/top-langs/?username=sakib8900&layout=compact&theme=tokyonight)
 
 ---
 
