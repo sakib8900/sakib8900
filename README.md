@@ -76,9 +76,9 @@
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api?username=sakib8900&show_icons=true)
+![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakib8900&theme=tokyonight)
 
-![Top Languages](https://raw.githubusercontent.com/anuraghazra/github-readme-stats/master/api/top-langs?username=sakib8900&layout=compact)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakib8900&theme=tokyonight)
 
 ---
 
