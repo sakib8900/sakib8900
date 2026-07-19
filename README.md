@@ -27,30 +27,17 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 
 **Frontend**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind&theme=dark" alt="Frontend skills"/>
 </p>
 
 **Backend & Database**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase&theme=dark" alt="Backend skills"/>
 </p>
 
 **Tools & Platforms**
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="36"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36"/>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman,figma&theme=dark" alt="Tools"/>
 </p>
 
 **Comfortable with:** Next.js App Router · Prisma ORM Migrations · SQL · REST API Integration · next-intl (i18n) · JWT Auth · Git Workflow
@@ -97,10 +84,14 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 ### 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sakib8900/sakib8900/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sakib8900/sakib8900/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sakib8900/sakib8900/output/github-contribution-grid-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sakib8900/sakib8900/output/github-contribution-grid-snake.svg" width="100%"/>
+  </picture>
 </p>
 
-> ⚙️ **Setup note:** this only renders once the snake-generator GitHub Action runs on your profile repo. Add this workflow file at `.github/workflows/snake.yml` in your `sakib8900/sakib8900` repo:
+> ⚙️ **Setup note:** this renders once the snake-generator GitHub Action has run at least once on your profile repo (`sakib8900/sakib8900`). Add this workflow at `.github/workflows/snake.yml`:
 > ```yaml
 > name: Generate Snake
 > on:
@@ -120,7 +111,9 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 >       - uses: Platane/snk@v3
 >         with:
 >           github_user_name: sakib8900
->           outputs: dist/github-contribution-grid-snake.svg
+>           outputs: |
+>             dist/github-contribution-grid-snake.svg
+>             dist/github-contribution-grid-snake-dark.svg?palette=github-dark
 >       - uses: crazy-max/ghaction-github-pages@v4
 >         with:
 >           target_branch: output
@@ -128,11 +121,19 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 >         env:
 >           GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
 > ```
-> Once it runs once (manually trigger via "Run workflow" or wait for the cron), the `output` branch gets created and the image above will show automatically.
+> Go to the **Actions** tab → run it once manually ("Run workflow") → the `output` branch gets created and both images above start showing automatically.
 
 ---
 
 ### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sakib8900&theme=dark&hide_border=true&background=0d1117&ring=00bfbf&fire=9400D3&currStreakLabel=00bfbf" alt="Streak stats" width="100%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sakib8900&theme=react-dark&hide_border=true&area=true" alt="Activity graph" width="100%"/>
+</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakib8900&theme=tokyonight" width="49%"/>
