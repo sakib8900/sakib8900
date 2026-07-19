@@ -26,7 +26,7 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 ### 🛠 Tech Stack
 
 **Frontend**
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
@@ -37,7 +37,7 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 </p>
 
 **Backend & Database**
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
@@ -45,7 +45,7 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 </p>
 
 **Tools & Platforms**
-<p>
+<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
@@ -91,6 +91,44 @@ Junior Web Developer with hands-on experience building **responsive, scalable fu
 
 - **Diploma in Engineering — Telecommunication Technology**, Feni Govt. Computer Institute *(Completing Mar 2026)*
 - **Secondary School Certificate — Science**, Karaiya Kalikapur High School *(2022)*
+
+---
+
+### 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/sakib8900/sakib8900/output/github-contribution-grid-snake.svg" alt="Snake animation" width="100%"/>
+</p>
+
+> ⚙️ **Setup note:** this only renders once the snake-generator GitHub Action runs on your profile repo. Add this workflow file at `.github/workflows/snake.yml` in your `sakib8900/sakib8900` repo:
+> ```yaml
+> name: Generate Snake
+> on:
+>   schedule:
+>     - cron: "0 */6 * * *"
+>   workflow_dispatch:
+>   push:
+>     branches: ["main"]
+>
+> jobs:
+>   generate:
+>     permissions:
+>       contents: write
+>     runs-on: ubuntu-latest
+>     steps:
+>       - uses: actions/checkout@v4
+>       - uses: Platane/snk@v3
+>         with:
+>           github_user_name: sakib8900
+>           outputs: dist/github-contribution-grid-snake.svg
+>       - uses: crazy-max/ghaction-github-pages@v4
+>         with:
+>           target_branch: output
+>           build_dir: dist
+>         env:
+>           GITHUB_TOKEN: ${{ '{{' }} secrets.GITHUB_TOKEN {{ '}}' }}
+> ```
+> Once it runs once (manually trigger via "Run workflow" or wait for the cron), the `output` branch gets created and the image above will show automatically.
 
 ---
 
