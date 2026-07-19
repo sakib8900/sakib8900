@@ -1,93 +1,114 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=160&section=header&text=Nazmul+Islam+Patowary&fontSize=25&fontColor=fff&animation=twinkling&fontAlignY=35" width="100%">
-
-<div align="center">
-  <img width="100%" src="https://i.ibb.co/CjqY5Bs/download.jpg" alt="Profile Banner"/>
-</div>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=180&section=header&text=Nazmul%20Islam%20Patowary&fontSize=32&fontColor=fff&animation=twinkling&fontAlignY=38&desc=Junior%20Web%20Developer%20(React%20/%20Next.js)&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=550&lines=Hello,+My+Name+Is+Nazmul+Islam+Patowary;I+Am+A+Passionate+Web+Developer;Love+To+Work+With+MERN+Stack;Learning+New+Technologies+Everyday" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00BFBF&center=true&vCenter=true&width=600&lines=Junior+Web+Developer+%7C+React+%2F+Next.js;Building+full-stack+apps+with+Next.js+%26+Prisma;JWT+Auth+%C2%B7+RBAC+%C2%B7+REST+APIs+%C2%B7+i18n;Currently%3A+Frontend+Developer+at+RBF+Tech+Zone" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <a href="mailto:md.sakib88900@gmail.com"><img src="https://img.shields.io/badge/Email-md.sakib88900%40gmail.com-00bfbf?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://nazmulislam-me.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Visit-00bfbf?style=for-the-badge&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/nazmul-islam-saki0b/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 ---
 
-## 🌐 About Me
+### 🧑‍💻 About Me
 
-👋 Hi there! I'm **Nazmul Islam Patowary**, a creative and enthusiastic **MERN Stack Developer** from **Feni, Bangladesh** 🇧🇩.
+Junior Web Developer with hands-on experience building **responsive, scalable full-stack applications** using **React, Next.js, and TypeScript**. Strong focus on clean code, performance optimization, and shipping real production systems as part of a full-time team.
 
-💻 Check out my work here:  
-👉 [**My Portfolio**](https://nazmulislam-me.vercel.app/)
-
-- 📍 **Location:** Bangladesh, Feni  
-- 📚 **Currently Learning:** Advanced MERN Stack, Next.js  
-- 💼 **Open for:** Remote or On-site Job Opportunities  
-- 💡 **Hobbies:** Coding, Cycling, Tech Blogging  
+- 🏢 **Currently:** Frontend Developer (Remote) @ **RBF Tech Zone LTD** (Apr 2025 – Present)
+- 🌱 **Learning:** Advanced Next.js App Router patterns, system design
+- 📍 **Based in:** Mohakhali, Dhaka, Bangladesh
+- 💼 **Open to:** Remote or on-site opportunities
 
 ---
 
-## 📬 Contact Me
+### 🛠 Tech Stack
 
-| Platform | Link |
-|---|---|
-| 📧 Email | [md.sakib88900@gmail.com](mailto:md.sakib88900@gmail.com) |
-| 📞 WhatsApp | [Chat on WhatsApp](https://wa.me/8801858388900) |
-| 🌐 Portfolio | [Visit My Portfolio](https://nazmulislam-me.vercel.app/) |
+**Frontend**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="36"/>
+</p>
 
-<a href="https://www.github.com/sakib8900" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/github/followers/sakib8900?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-</a>
+**Backend & Database**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="36"/>
+</p>
+
+**Tools & Platforms**
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vercel/vercel-original.svg" height="36"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" height="36"/>
+</p>
+
+**Comfortable with:** Next.js App Router · Prisma ORM Migrations · SQL · REST API Integration · next-intl (i18n) · JWT Auth · Git Workflow
 
 ---
 
-## 🔗 Social Links
+### 💼 Work Experience
+
+**Frontend Developer (Remote) — RBF Tech Zone LTD** · *Apr 2025 – Present*
+- Developed and maintained scalable full-stack apps: RBF HRM System, RBF Foundation, RBF Student Window, RBF Tech Zone, and Practicing Muslim (Next.js, React 19, TypeScript, Tailwind CSS, Prisma ORM, SQL)
+- Converted Figma/UI designs into production-ready, reusable UI components
+- Built secure auth systems using JWT, OTP verification, bcryptjs, and role-based access control (RBAC)
+- Integrated REST APIs, multilingual support (next-intl), email notifications, and PDF report generation
+- Optimized performance, SEO, and cross-device compatibility through modular, component-based architecture
+
+**Frontend Developer (Trainee) — Programming Hero** · *Jun 2024 – Mar 2025*
+- Trained under Web Coach Batch-10: React.js, Express.js, REST API, Tailwind CSS, DaisyUI, Firebase, MongoDB
+- Built real-world projects with responsive design and component-based architecture
+- Practiced routing, authentication, state management, and performance optimization
+
+---
+
+### 🚀 Featured Projects
+
+| Project | Stack | Highlights |
+|---|---|---|
+| **RBF HRM System** *(Internal)* | Next.js 15, React 19, TypeScript, Prisma ORM, next-intl | Role-based admin dashboard for payroll, attendance, leave, loans & provident fund; JWT + OTP + RBAC; Leaflet maps; Puppeteer PDF reports |
+| **RBF Student Window** | Next.js 16, React 19, TypeScript, Prisma ORM, SQL, i18n | Full-stack e-commerce platform: catalog, cart, wishlist, checkout, bKash/Nagad/bank/COD payments, BN/EN support |
+| **RBF Tech Zone** | Next.js 16, React 19, TypeScript, Prisma ORM, SQL, JWT | Corporate site with integrated LMS — courses, instructors, enrollments, dark/light theme, SEO |
+| **RBF Foundation** | Next.js, React 19, TypeScript, Prisma, i18n | Shariah-based non-profit donation & welfare platform with interest-free loan system |
+| **Practicing Muslim** | Next.js, React 19, TypeScript, Prisma | Islamic lifestyle app — prayer times, fasting tracker, Quran, Hadith, Dua, Ramadan |
+| **Asset Management System** | React, Express.js, MongoDB, Tailwind | Inventory tracking, request approvals, role management, real-time updates |
+| **Car Rental System** | React, Express.js, MongoDB, Tailwind | Vehicle booking, real-time availability, booking history |
+
+---
+
+### 🎓 Education
+
+- **Diploma in Engineering — Telecommunication Technology**, Feni Govt. Computer Institute *(Completing Mar 2026)*
+- **Secondary School Certificate — Science**, Karaiya Kalikapur High School *(2022)*
+
+---
+
+### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/nazmul-islam-saki0b/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://github.com/sakib8900" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.facebook.com/nip.sakib.1" target="_blank">
-    <img src="https://img.shields.io/badge/-Facebook-1877F2?logo=facebook&logoColor=white&style=for-the-badge" />
-  </a>
-  <a href="https://www.instagram.com/nip.sakib/?hl=en" target="_blank">
-    <img src="https://img.shields.io/badge/-Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge" />
-  </a>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakib8900&theme=tokyonight" width="49%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakib8900&theme=tokyonight" width="49%"/>
 </p>
 
 ---
 
-## 🛠 Skills
+### 📬 Let's Connect
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="Next.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="Firebase" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" height="40" alt="Tailwind CSS" />
-</div>
+<p align="center">
+  <a href="https://www.linkedin.com/in/nazmul-islam-saki0b/"><img src="https://img.shields.io/badge/-LinkedIn-0077b5?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://github.com/sakib8900"><img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://wa.me/8801858388900"><img src="https://img.shields.io/badge/-WhatsApp-25D366?logo=whatsapp&logoColor=white&style=for-the-badge"/></a>
+</p>
 
----
-
-## 📊 GitHub Stats
-
-![Profile Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sakib8900&theme=tokyonight)
-
-![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sakib8900&theme=tokyonight)
-
----
-
-## 📄 My Resume
-
-<a href="https://drive.google.com/file/d/1ZFzDUQOfnJt_U8yfXxSkg0jxZ7GLlcwB/view" target="_blank">
-  <img src="https://img.shields.io/badge/-Download%20CV-00bfbf?style=for-the-badge&logo=googledrive&logoColor=white" />
-</a>
-
----
-
-⭐️ _**Keep Learning, Keep Growing!**_ 🚀
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=100&section=footer" width="100%"/>
